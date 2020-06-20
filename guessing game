@@ -1,0 +1,5 @@
+   i=0
+while i<=30:
+   i=i+5
+   i=int(input('Enter any number:'))
+print('Try again')
